@@ -1,4 +1,4 @@
-# glsl-random [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+# glsl-screenspace [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
 Retrieves screen space position in a vertex shader
 
@@ -7,7 +7,6 @@ Retrieves screen space position in a vertex shader
 ```glsl
 #pragma glslify: screenspace = require(glsl-screenspace)
 
-...
-	vec2 ss = screenspace(projectionMatrix, modelviewmatrix, position);
+vec2 ss = screenspace(projectionMatrix, modelviewmatrix, position);
 ```
 
