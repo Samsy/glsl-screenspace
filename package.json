@@ -1,6 +1,6 @@
 {
   "name": "glsl-screenspace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "glslify module to retrieve screen space position in a vertex shader",
   "main": "index.js",
   "scripts": {
