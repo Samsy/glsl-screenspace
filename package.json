@@ -1,0 +1,19 @@
+{
+  "name": "glsl-screenspace",
+  "version": "1.0.0",
+  "description": "glslify module to retrieve screen space position in a vertex shader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samsy/glsl-screenspace.git"
+  },
+  "author": "Samsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samsy/glsl-screenspace/issues"
+  },
+  "homepage": "https://github.com/Samsy/glsl-screenspace#readme"
+}
